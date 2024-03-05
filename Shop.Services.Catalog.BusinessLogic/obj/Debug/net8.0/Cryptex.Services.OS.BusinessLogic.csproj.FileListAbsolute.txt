@@ -1,0 +1,17 @@
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/obj/Debug/net8.0/Cryptex.Services.OS.BusinessLogic.csproj.AssemblyReference.cache
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/obj/Debug/net8.0/Cryptex.Services.OS.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/obj/Debug/net8.0/Cryptex.Services.OS.BusinessLogic.AssemblyInfoInputs.cache
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/obj/Debug/net8.0/Cryptex.Services.OS.BusinessLogic.AssemblyInfo.cs
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/obj/Debug/net8.0/Cryptex.Services.OS.BusinessLogic.csproj.CoreCompileInputs.cache
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/bin/Debug/net8.0/Cryptex.Services.OS.BusinessLogic.deps.json
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/bin/Debug/net8.0/Cryptex.Services.OS.BusinessLogic.dll
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/bin/Debug/net8.0/Cryptex.Services.OS.BusinessLogic.pdb
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/bin/Debug/net8.0/Cryptex.Services.OS.DataAccess.dll
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/bin/Debug/net8.0/Cryptex.Services.OS.DataAccess.pdb
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/obj/Debug/net8.0/Cryptex.Services.OS.BusinessLogic.csproj.CopyComplete
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/obj/Debug/net8.0/Cryptex.Services.OS.BusinessLogic.dll
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/obj/Debug/net8.0/refint/Cryptex.Services.OS.BusinessLogic.dll
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/obj/Debug/net8.0/Cryptex.Services.OS.BusinessLogic.pdb
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/obj/Debug/net8.0/ref/Cryptex.Services.OS.BusinessLogic.dll
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/bin/Debug/net8.0/Cryptex.Services.OS.ExternalService.dll
+/Users/zxj/Documents/Github/Cryptex/backend/OperationService/Cryptex.Services.OperationService/Cryptex.Services.OS.BusinessLogic/bin/Debug/net8.0/Cryptex.Services.OS.ExternalService.pdb

@@ -1,0 +1,24 @@
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.ExternalService/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.deps.json
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.ExternalService/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.ExternalService/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.pdb
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.csproj.AssemblyReference.cache
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.AssemblyInfoInputs.cache
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.AssemblyInfo.cs
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.csproj.CoreCompileInputs.cache
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/refint/Shop.Services.Catalog.ExternalService.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.pdb
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/ref/Shop.Services.Catalog.ExternalService.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.ExternalService/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.deps.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.ExternalService/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.ExternalService/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.pdb
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.csproj.AssemblyReference.cache
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.AssemblyInfoInputs.cache
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.AssemblyInfo.cs
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.csproj.CoreCompileInputs.cache
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/refint/Shop.Services.Catalog.ExternalService.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/Shop.Services.Catalog.ExternalService.pdb
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.ExternalService/obj/Debug/net8.0/ref/Shop.Services.Catalog.ExternalService.dll

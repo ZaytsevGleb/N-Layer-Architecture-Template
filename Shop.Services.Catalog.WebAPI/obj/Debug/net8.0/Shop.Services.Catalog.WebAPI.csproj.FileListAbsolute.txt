@@ -1,0 +1,279 @@
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/appsettings.dev.json
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/appsettings.json
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.WebAPI
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.WebAPI.deps.json
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.WebAPI.runtimeconfig.json
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.WebAPI.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.WebAPI.pdb
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/AutoMapper.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/FluentValidation.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/FluentValidation.AspNetCore.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Humanizer.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.PlatformAbstractions.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/NBitcoin.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/NJsonSchema.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Npgsql.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/NSwag.Core.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/NSwag.SwaggerGeneration.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/NSwag.SwaggerGeneration.AspNetCore.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.AspNetCore.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Newtonsoft.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Swashbukle.AspNetCore.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Swashbukle.AspNetCore.Newtonsoft.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/System.CodeDom.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.DataAccess.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.pdb
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.DataAccess.pdb
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.pdb
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.csproj.AssemblyReference.cache
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.AssemblyInfoInputs.cache
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.AssemblyInfo.cs
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.csproj.CoreCompileInputs.cache
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.Shop.Services.Catalog.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.Shop.Services.Catalog.WebAPI.props
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Shop.Services.Catalog.WebAPI.props
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Shop.Services.Catalog.WebAPI.props
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/scopedcss/bundle/Shop.Services.Catalog.WebAPI.styles.css
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.csproj.CopyComplete
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/refint/Shop.Services.Catalog.WebAPI.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.pdb
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.genruntimeconfig.cache
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/ref/Shop.Services.Catalog.WebAPI.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/appsettings.prod.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/appsettings.dev.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/appsettings.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/appsettings.prod.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.WebAPI
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.WebAPI.deps.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.WebAPI.runtimeconfig.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.WebAPI.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.WebAPI.pdb
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/AutoMapper.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/FluentValidation.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/FluentValidation.AspNetCore.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Humanizer.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.Extensions.PlatformAbstractions.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/NBitcoin.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/NJsonSchema.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Npgsql.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/NSwag.Core.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/NSwag.SwaggerGeneration.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/NSwag.SwaggerGeneration.AspNetCore.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.AspNetCore.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Newtonsoft.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Swashbukle.AspNetCore.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Swashbukle.AspNetCore.Newtonsoft.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/System.CodeDom.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.DataAccess.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.pdb
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.DataAccess.pdb
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.pdb
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.csproj.AssemblyReference.cache
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.AssemblyInfoInputs.cache
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.AssemblyInfo.cs
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.csproj.CoreCompileInputs.cache
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.sourcelink.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.Shop.Services.Catalog.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.Shop.Services.Catalog.WebAPI.props
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Shop.Services.Catalog.WebAPI.props
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Shop.Services.Catalog.WebAPI.props
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/scopedcss/bundle/Shop.Services.Catalog.WebAPI.styles.css
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.csproj.CopyComplete
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/refint/Shop.Services.Catalog.WebAPI.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.pdb
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/Shop.Services.Catalog.WebAPI.genruntimeconfig.cache
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.WebAPI/obj/Debug/net8.0/ref/Shop.Services.Catalog.WebAPI.dll

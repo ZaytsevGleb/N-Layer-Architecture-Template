@@ -14,60 +14,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="033c40c3-2395-4eaa-afeb-bbb7b8a4af65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.Application/DependencyInjection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.Application/Interfaces/IService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.Application/Services/Service.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.BusinessLogic/Abstractions/IWalletService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.BusinessLogic/Common/DesignTimeApplicationDbContextFactory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.BusinessLogic/Common/Exceptions/BadRequestException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.BusinessLogic/Common/Exceptions/ForbiddenException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.BusinessLogic/Common/Exceptions/NotFoundException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.BusinessLogic/Common/Exceptions/ValidationException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.BusinessLogic/Cryptex.Services.OS.BusinessLogic.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.BusinessLogic/DI/DependencyInjection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.BusinessLogic/Mappers/MappingProfile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.BusinessLogic/Services/WalletService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.DataAccess/Common/DesignTimeApplicationDbContextFactory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.DataAccess/Common/EntityDateTrackingInterceptor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.DataAccess/Constants/DataAccessConstants.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.DataAccess/Context/ApplicationDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.DataAccess/Cryptex.Services.OS.DataAccess.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.DataAccess/DI/DependencyInjection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.DataAccess/Entities/BaseEntity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.DataAccess/Entities/Role.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.DataAccess/Entities/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.DataAccess/Migrations/20240301093251_Init.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.DataAccess/Migrations/20240301093251_Init.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.DataAccess/Migrations/ApplicationDbContextModelSnapshot.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.Domain/Entities/BaseEntity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.Domain/Exceptions/BadRequestException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.Domain/Exceptions/NotFoundException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.Domain/Repositories/IUnitOfWork.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.ExternalService/Cryptex.Services.OS.ExternalService.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.ExternalService/DI/DependencyInjection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.Persistence/Database/Context/ApplicationDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.Persistence/Database/Extensions/EntityDateTrackingInterceptor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.Persistence/DependencyInjection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.Shared/Cryptex.Services.OS.Shared.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/Constants/ApiConstants.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/Constants/ConfigConstants.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/Controllers/BtcWalletController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/Cryptex.Services.OS.WebAPI.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/Cryptex.Services.OperationService.WebAPI.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/Dtos/ErrorDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/Mappers/MappingProfile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/Middleware/ExceptionHandlingMiddleware.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/Middleware/RequestLoggingMiddleware.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/appsettings.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OS.WebAPI/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptex.Services.OperationService.sln" afterDir="false" />
-    </list>
+    <list default="true" id="033c40c3-2395-4eaa-afeb-bbb7b8a4af65" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +43,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;.NET Launch Settings Profile.Cryptex.Services.OS.Web: Operation service dev.executor&quot;: &quot;Debug&quot;,
+    &quot;.NET Launch Settings Profile.Shop.Services.Catalog.WebAPI: Catalog dev.executor&quot;: &quot;Run&quot;,
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -229,6 +177,7 @@
       <workItem from="1709212935438" duration="5087000" />
       <workItem from="1709283243115" duration="7333000" />
       <workItem from="1709552687308" duration="1986000" />
+      <workItem from="1709625228094" duration="989000" />
     </task>
     <servers />
   </component>

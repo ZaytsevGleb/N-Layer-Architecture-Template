@@ -1,0 +1,35 @@
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.deps.json
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.pdb
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.DataAccess.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.DataAccess.pdb
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.pdb
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.csproj.AssemblyReference.cache
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.AssemblyInfoInputs.cache
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.AssemblyInfo.cs
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.csproj.CoreCompileInputs.cache
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.csproj.CopyComplete
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/refint/Shop.Services.Catalog.BusinessLogic.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.pdb
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/ref/Shop.Services.Catalog.BusinessLogic.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/refint/Shop.Services.Catalog.BusinessLogic.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.pdb
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.deps.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.pdb
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.DataAccess.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.DataAccess.pdb
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/bin/Debug/net8.0/Shop.Services.Catalog.ExternalService.pdb
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.csproj.AssemblyReference.cache
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.AssemblyInfoInputs.cache
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.AssemblyInfo.cs
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.csproj.CoreCompileInputs.cache
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.sourcelink.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/Shop.Services.Catalog.BusinessLogic.csproj.CopyComplete
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.BusinessLogic/obj/Debug/net8.0/ref/Shop.Services.Catalog.BusinessLogic.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Shop.Services.Catalog.WebAPI.props" />
+</Project>

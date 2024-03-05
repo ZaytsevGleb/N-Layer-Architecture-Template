@@ -1,0 +1,22 @@
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.Shared/bin/Debug/net8.0/Shop.Services.Catalog.Shared.deps.json
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.Shared/bin/Debug/net8.0/Shop.Services.Catalog.Shared.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.Shared/bin/Debug/net8.0/Shop.Services.Catalog.Shared.pdb
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.Shared/obj/Debug/net8.0/Shop.Services.Catalog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.Shared/obj/Debug/net8.0/Shop.Services.Catalog.Shared.AssemblyInfoInputs.cache
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.Shared/obj/Debug/net8.0/Shop.Services.Catalog.Shared.AssemblyInfo.cs
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.Shared/obj/Debug/net8.0/Shop.Services.Catalog.Shared.csproj.CoreCompileInputs.cache
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.Shared/obj/Debug/net8.0/Shop.Services.Catalog.Shared.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.Shared/obj/Debug/net8.0/refint/Shop.Services.Catalog.Shared.dll
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.Shared/obj/Debug/net8.0/Shop.Services.Catalog.Shared.pdb
+/Users/zxj/Documents/Github/E-Shop/Cryptex.Services.OperationService/Shop.Services.Catalog.Shared/obj/Debug/net8.0/ref/Shop.Services.Catalog.Shared.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.Shared/bin/Debug/net8.0/Shop.Services.Catalog.Shared.deps.json
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.Shared/bin/Debug/net8.0/Shop.Services.Catalog.Shared.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.Shared/bin/Debug/net8.0/Shop.Services.Catalog.Shared.pdb
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.Shared/obj/Debug/net8.0/Shop.Services.Catalog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.Shared/obj/Debug/net8.0/Shop.Services.Catalog.Shared.AssemblyInfoInputs.cache
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.Shared/obj/Debug/net8.0/Shop.Services.Catalog.Shared.AssemblyInfo.cs
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.Shared/obj/Debug/net8.0/Shop.Services.Catalog.Shared.csproj.CoreCompileInputs.cache
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.Shared/obj/Debug/net8.0/Shop.Services.Catalog.Shared.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.Shared/obj/Debug/net8.0/refint/Shop.Services.Catalog.Shared.dll
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.Shared/obj/Debug/net8.0/Shop.Services.Catalog.Shared.pdb
+/Users/zxj/Documents/MyProjects/N-Layer Template/Shop.Services.Catalog.Shared/obj/Debug/net8.0/ref/Shop.Services.Catalog.Shared.dll
